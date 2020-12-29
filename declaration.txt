@@ -1,0 +1,10 @@
+1) Архитектура бд
+users
+
+wallets
+id user_id balance date
+
+transactions
+id source_wallet_id destination_wallet_id amount time
+
+2) подготовить контроллер
